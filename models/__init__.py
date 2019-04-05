@@ -1,5 +1,5 @@
 # Keep the list of models implemented up-2-date
-from .CNN_basic import CNN_basic
+from .my_CNN_basic import CNN_basic
 from .FC_medium import FC_medium
 from .FC_simple import FC_simple
 from .TNet import TNet
