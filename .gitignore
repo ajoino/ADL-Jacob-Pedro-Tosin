@@ -116,3 +116,5 @@ _templates
 
 # Jacnil stuff
 datasets/*
+output/*
+
